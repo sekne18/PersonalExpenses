@@ -1,6 +1,7 @@
 # Personal Expenses
 
 This app was build in flutter from udemy course.
+App automatically refreshes chart on adding new expense (and also on deleting).
 
 Screenshot:
 
