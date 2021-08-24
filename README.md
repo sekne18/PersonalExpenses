@@ -1,0 +1,1 @@
+This app was build in flutter from udemy course.
